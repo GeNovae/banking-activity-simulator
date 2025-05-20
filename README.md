@@ -1,4 +1,4 @@
-# Bank Fraud Simulation System Using Markov Chains
+# Bank Fraud Simulation System Using Generative AI and Markov Chains
 
 This README provides a comprehensive overview of the bank fraud simulation system using Markov chains, designed to model both legitimate and fraudulent user behaviors within a financial environment. It also includes scripts for clustering analysis and feature evaluation using machine learning techniques.
 
