@@ -1,0 +1,11 @@
+transaction_id,user_id,bank_timestamp,local_timestamp,location,ip_address,device_id,network_type,type,amount,account_id,balance_before,granted,balance_after,merchant_name,recipient_id,recipient_bank,behavior_type,is_hijacked,fraud_label
+TXN-7b40324e5c,USER-737389ff,2025-04-29T13:42:22+00:00,2025-04-29T09:42:22-04:00,"New York, USA",73.123.45.67,iPhone-13,Wi-Fi,Purchase,1250.75,ACC-4151a49f,32331.0,True,31080.25,Amazon,,,Identity Theft,0,1
+TXN-3a47b95da7,USER-737389ff,2025-04-29T13:57:22+00:00,2025-04-29T09:57:22-04:00,"New York, USA",73.123.45.67,iPhone-13,Wi-Fi,Transfer Out,1250.75,ACC-4151a49f,31080.25,True,29829.5,,ACC-774683nf,Bank of America,Identity Theft,0,1
+TXN-a1c002ec46,USER-737389ff,2025-04-29T14:17:22+00:00,2025-04-29T10:17:22-04:00,"New York, USA",73.123.45.67,iPhone-13,Wi-Fi,Purchase,450.75,ACC-4151a49f,29829.5,True,29378.75,Amazon,,,Identity Theft,0,1
+TXN-fda4fb4a5f,USER-3f651a42,2025-04-29T13:41:56+00:00,2025-04-29T09:41:56-04:00,"New York, USA",73.123.45.67,iPhone-13,Wi-Fi,Purchase,345.75,ACC-2d8ccf78,1858.0,True,1512.25,Amazon,,,Frequent Online Shopper,0,0
+TXN-afb0eb2f8c,USER-a4d2baa4,2025-04-29T13:56:56+00:00,2025-04-29T09:56:56-04:00,"New York, USA",73.123.45.67,iPhone-13,Wi-Fi,Purchase,456.78,ACC-9cfcdbf0,39987.0,True,39530.22,Amazon,,,Identity Theft,0,1
+TXN-fa71691c4e,USER-792f2021,2025-05-03T13:34:42+00:00,2025-05-03T06:34:42-07:00,"Los Angeles, USA",73.123.45.67,iPhone-8,Wi-Fi,Purchase,125.75,ACC-02b158bf,12627.0,True,12501.25,Walmart,,,Retiree,0,0
+TXN-7f9e413918,USER-f2144f7c,2025-04-29T13:36:07+00:00,2025-04-29T06:36:07-07:00,"San Francisco, USA",73.123.45.67,iPhone-13,Wi-Fi,Purchase,1250.75,ACC-82116489,44464.0,True,43213.25,Coinbase,,,Cryptocurrency Fraud,1,1
+TXN-8e635e1a4c,USER-29c47f1d,2025-05-03T13:34:59+00:00,2025-05-03T09:34:59-04:00,"New York, USA",73.123.45.67,iPhone-8,Wi-Fi,Purchase,150.75,ACC-f0debfa5,15739.0,True,15588.25,Walmart,,,Retiree,0,0
+TXN-b3d69fbb8d,USER-29c47f1d,2025-05-06T13:34:59+00:00,2025-05-06T09:34:59-04:00,"New York, USA",73.123.45.67,iPhone-8,Wi-Fi,Purchase,150.75,ACC-f0debfa5,15588.25,True,15437.5,Walmart,,,Retiree,0,0
+TXN-350dde17ff,USER-29c47f1d,2025-05-08T15:45:30+00:00,2025-05-08T08:45:30-07:00,"Los Angeles, USA",73.123.45.67,iPhone-8,Wi-Fi,Purchase,150.75,ACC-f0debfa5,15437.5,True,15286.75,Walmart,,,Retiree,0,0
